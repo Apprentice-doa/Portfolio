@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "NPFL Seasonal EDA Dashboard ⚽ ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built a PowerBI Dashboard for the NPFL's (Nigeria Professional Football League) Seasonal Stats.",
+    url: "https://github.com/Apprentice-doa/NPFL-Seasonal-Data-Analytics",
   },
   {
-    title: "Web Development for Beginners",
+    title: "E-Commerce Data Analytics Dashboard 🛒",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Performed Data Analytics and built an analytical Dashboard for an E-Commerce company.",
+    url: "https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "NPFL Dataset Generation and kernel-based EDA",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Gathered NPFL Seasonal data across seasons using Data Mining/Scraping Techniques and performed EDA on them.",
+    url: "https://www.kaggle.com/",
   },
 ];
 
