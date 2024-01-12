@@ -37,6 +37,8 @@ const skillsList = [
   "Data Visualization",
   "Computer Vision",
   "Natural Language Processing",
+  "CI/CD (GitHub Actions)",
+  "Containerization (Docker)",
 ];
 
 /**

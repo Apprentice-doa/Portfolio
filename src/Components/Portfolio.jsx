@@ -31,6 +31,30 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
+    title: "House Price Prediction in Nigeria",
+    description:
+      "Built a Machine Learning Regression Model to predict the prices of houses in Nigeria.",
+    url: "https://github.com/Apprentice-doa/House-Prices-Prediction-in-Nigeria-Model",
+  },
+  {
+    title: "Fraud Detection in Energy and Gas Consumption",
+    description:
+      "Built a Machine Learning classification model to predict whether a power client is fraudulent or not.",
+    url: "https://github.com/Apprentice-doa/Fraud-Detection-In-Energy-and-Gas-Consumption-Model",
+  },
+  {
+    title: "ChatBot using Natural Language Processing",
+    description:
+      "Built a conversational chatbot using NLP and corpus and deployed it to a web app using streamlit.",
+    url: "https://github.com/Apprentice-doa/Chatbot-using-NLP",
+  },
+  {
+    title: "Collaborative Learning Filtering Recommendation System",
+    description:
+      "Built a recommender system to match students based on performance metrics and deployed to render as an API.",
+    url: "https://github.com/Apprentice-doa/synapse",
+  },
+  {
     title: "NPFL Seasonal EDA Dashboard ⚽ ",
     description:
       "Built a PowerBI Dashboard for the NPFL's (Nigeria Professional Football League) Seasonal Stats.",
@@ -43,10 +67,10 @@ const projectList = [
     url: "https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Includes my professional and technical experience, academic record, skillsets, and accomplishments .",
+    url: "https://drive.google.com/drive/folders/1wx5hgYpfSHk75l1fULGdgZZ28-NCY1Jq?usp=sharing",
   },
   {
     title: "NPFL Dataset Generation and kernel-based EDA",
@@ -54,6 +78,7 @@ const projectList = [
       "Gathered NPFL Seasonal data across seasons using Data Mining/Scraping Techniques and performed EDA on them.",
     url: "https://www.kaggle.com/",
   },
+
 ];
 
 const Portfolio = () => {

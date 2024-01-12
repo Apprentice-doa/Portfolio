@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Daniel Akhabue",
-  title: "ML/AI Engineer",
+  title: "ML/AI Engineer (Kaggle Expert)",
   email: "akdaniel0009@gmail.com",
   gitHub: "Apprentice-doa/",
   linkedIn: "daniel-akhabue/",
